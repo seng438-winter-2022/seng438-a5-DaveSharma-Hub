@@ -2,12 +2,12 @@
 
 **Lab. Report \#5 – Software Reliability Assessment**
 
-| Group \#:       |   |
+| Group \#:       | 22  |
 |-----------------|---|
-| Student Names:  |   |
-|                 |   |
-|                 |   |
-|                 |   |
+| Student Names:  |  Angelo Gonzales |
+|                 |  Dave Sharma |
+|                 |  Jaron Baldazo |
+|                 |  Manjot Singh |
 
 # Introduction
 The purpose of this lab was to become familiar with integration analysis techniques using Reliabilty Growth Testing and Reliability assessment using Reliability Demonstration Chart (RDC). Using data given in a CSV form, integration analysis will be performed and plotted using tools such as CSFRAT or SRTAT. The data that will be plotted using these tools will be the failure rate and reliability. Gaining understanding of the usefulness of reliabilty growth testing, measuring MTTF, failure rate, and reliability will be important aspects of the laboratory.  
