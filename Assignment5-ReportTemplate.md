@@ -4,9 +4,9 @@
 
 | Group \#:       | 22  |
 |-----------------|---|
-| Student Names:  |  Angelo Gonzales |
-|                 |  Dave Sharma |
+| Student Names:  |  Dave Sharma |
 |                 |  Jaron Baldazo |
+|                 |  Angelo Gonzales |
 |                 |  Manjot Singh |
 
 # Introduction
