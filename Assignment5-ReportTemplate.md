@@ -28,7 +28,11 @@ The above chart shows the cumulative failure as a function of time using the CSF
 # 
 
 # Comparison of Results
+The charts above show similarities and differences with regard to the target failure intensity (failure per second in RDC).
 
+They both show that the software meets the criteria of the required failure intensity of 2.9. The chosen models for the reliability growth testing graph both show that the software meets the criteria in the last interval. Additionally, the reliability demonstration chart show that the software is acceptable given the failure rate target of 2.9. Similarly, both agree that the software does not meet the failure intensity target of 0.725; The models both show that further intervals are required and the RDC says the software must be tested further.
+
+The two techniques' results differ on the target failure rate of 1.45. The RDC states that this is the minimum failure rate for the software to remain acceptable. The NB2 model from the reliability growth testing graph agrees with this result, however the TL model shows that further intervals are required for the system to acheive this target.
 # Discussion on Similarity and Differences of the Two Techniques
   The main difference between the two techniques of Reliability Growth Testing (RGT) and Reliabiliy Demonstration Chart (RDC) is that RDC is based on inter failure times and MTTF whereas RGT takes failure count and MTTF into account. For this assignment, RGT was done to show the relationship between the cumulative failures of the system as a function of time. On the other hand, RDC was done to show how the relationship between the failure number as a function of failure time where different risk parameters (customer risk, developer risk) are changed. A similarity that RGT and RDC share are its ability to determine the reliability of the system through integration analysis.
 
