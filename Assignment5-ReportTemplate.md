@@ -30,6 +30,7 @@ The above chart shows the cumulative failure as a function of time using the CSF
 # Comparison of Results
 
 # Discussion on Similarity and Differences of the Two Techniques
+  The main difference between the two techniques of Reliability Growth Testing (RGT) and Reliabiliy Demonstration Chart (RDC) is that RDC is based on inter failure times and MTTF whereas RGT takes failure count and MTTF into account. For this assignment, RGT was done to show the relationship between the cumulative failures of the system as a function of time. On the other hand, RDC was done to show how the relationship between the failure number as a function of failure time where different risk parameters (customer risk, developer risk) are changed. A similarity that RGT and RDC share are its ability to determine the reliability of the system through integration analysis.
 
 # How the team work/effort was divided and managed
   Team work was divided equally, as all team members worked together one each part of the lab. Each member of the team went through the familirization of CSFRAT and SRTAT, and were responsiblle on checking the coverage of the tests. As a team we went through the graphs and chart and determined from which we were able to visualize the data. Through this process we were able to familiarize ourselves with RDCs and RGT. Finally, the lab report writeup, was split equally between members. Throughout the lab, each member was responsible for keeping each other accountable, and make sure that the work was done in time.
@@ -39,3 +40,4 @@ The above chart shows the cumulative failure as a function of time using the CSF
  
  Our group found difficulty using SRTAT for the relaibiilty growth testing section, thus we had to resort to using CSFRAT instead. 
 # Comments/feedback on the lab itself
+  This assignment was helpful in familiarizing ourselves with two techniques used in analysis of integration testing data. We were able to understand differences between Reliability Growth Testing and Reliability Demonstration Chart using testing tools such as CSFRAT and SRTAT. The assignment handout was easy to follow, giving instructions on how to use the testing tools in order to understand software reliability assesment.
